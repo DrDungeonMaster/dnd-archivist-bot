@@ -1,0 +1,7 @@
+### Place the bot access token you get when creating this app for your Slack workplace.
+token = 'xoxb-#############-#############-########################'
+
+### Add the Slack user ID number here of any user(s) you want to be able to use certain custom GM features, like roll fudging.
+gm_users = ['U##########']
+
+### Remove the .template from this filename before use
